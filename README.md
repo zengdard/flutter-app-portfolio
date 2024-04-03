@@ -3,6 +3,7 @@
 A new Flutter project created with FlutLab - https://flutlab.io
 
 ## Getting Started
+[Trading_Portfolio.pdf](https://github.com/zengdard/flutter-app-portfolio/files/14849221/Trading_Portfolio.pdf)
 
 A few resources to get you started if this is your first Flutter project:
 
