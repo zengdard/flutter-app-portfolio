@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Portfolio 1",
+    "change24h": 1.5,
+    "assets": [
+      {"name": "Asset 1", "symbol": "ETH", "value": 4000},
+      {"name": "Asset 2", "symbol": "ETH", "value": 4000},
+      {"name": "Asset 3", "symbol": "ETH", "value": 4000}
+    ],
+    "value": 12000
+  },
+  {
+    "name": "Portfolio 2",
+    "change24h": -0.5,
+    "assets": [
+      {"name": "Asset 1", "symbol": "BTC", "value": 4000},
+      {"name": "Asset 2", "symbol": "BTC", "value": 4000},
+      {"name": "Asset 3", "symbol": "BTC", "value": 4000}
+    ],
+    "value": 12000
+  }
+]
