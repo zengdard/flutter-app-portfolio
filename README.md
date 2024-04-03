@@ -1,6 +1,7 @@
 # Flutter_Portfolio_App
 
 A new Flutter project created with FlutLab - https://flutlab.io
+![image](https://github.com/zengdard/flutter-app-portfolio/assets/61885397/4a101b2e-6a49-42ae-b171-2b50d3579d0e)
 
 ## Getting Started
 [Trading_Portfolio.pdf](https://github.com/zengdard/flutter-app-portfolio/files/14849221/Trading_Portfolio.pdf)
